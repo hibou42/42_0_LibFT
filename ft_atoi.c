@@ -6,7 +6,7 @@
 /*   By: aschaefe <aschaefe@student.42lausanne.ch>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/13 11:59:11 by aschaefe          #+#    #+#             */
-/*   Updated: 2022/10/27 16:22:56 by aschaefe         ###   ########.fr       */
+/*   Updated: 2022/10/27 16:25:40 by aschaefe         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -43,3 +43,4 @@ int	ft_atoi(const char *str)
 	}
 	return (res * neg);
 }
+
